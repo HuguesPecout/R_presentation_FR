@@ -6,8 +6,8 @@
 
 Autres versions :
 
-- [Version anglaise](https://huguespecout.github.io/R_presentation_EN/#/), translated by Violaine Jurie       
-- [Version espagnole](https://huguespecout.github.io/R_presentation_SP/#/), Traducido por Francois Rebaudo
+- [Version anglaise](https://huguespecout.github.io/R_presentation_EN/#/), traduit par Violaine Jurie       
+- [Version espagnole](https://huguespecout.github.io/R_presentation_SP/#/), traduit par Francois Rebaudo
 
 
 Ces diapositives peuvent être utilisées pour introduire la présentation suivante :
