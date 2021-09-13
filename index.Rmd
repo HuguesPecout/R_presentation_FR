@@ -850,7 +850,7 @@ ggsave(p, filename = "figure/graph.png", bg = "transparent", dpi = 300)
 
 <br>
 
-Partie 2 : [Introduction au langage et à  l'IDE Rstudio](https://huguespecout.github.io/R_presentation_FR/)
+Partie 2 : [Introduction au langage et à  l'IDE Rstudio](https://huguespecout.github.io/Intro_R_Rstudio_FR/#/)
 <div class="litito">
 >- Une super calculatrice
 >- R et objets
@@ -862,4 +862,4 @@ Partie 2 : [Introduction au langage et à  l'IDE Rstudio](https://huguespecout.g
 
 <br>
 
-<p class="smallpcenter">[Voir le diaporama](https://huguespecout.github.io/R_presentation_FR/)</p>
+<p class="smallpcenter">[Voir le diaporama](https://huguespecout.github.io/Intro_R_Rstudio_FR/#/)</p>
