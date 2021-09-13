@@ -773,9 +773,9 @@ ggsave(p, filename = "figure/graph.png", bg = "transparent", dpi = 300)
 <ul class="xpucsmall">
 
 
-> - Version française:  https://hpecout.gitpages.huma-num.fr/R_presentation_FR/
-> - English version:  https://hpecout.gitpages.huma-num.fr/R_presentation_EN/
-> - Versión español:  https://hpecout.gitpages.huma-num.fr/R_presentation_SP/
+> - Version française:  https://huguespecout.github.io/R_presentation_FR/
+> - English version:  https://huguespecout.github.io/R_presentation_EN/
+> - Versión español:  https://huguespecout.github.io/R_presentation_SP/
 
 
 </ul>
@@ -788,9 +788,9 @@ ggsave(p, filename = "figure/graph.png", bg = "transparent", dpi = 300)
 <ul class="xpucsmall">
 
 
-> - Git (français): https://gitlab.huma-num.fr/hpecout/R_presentation_FR
-> - Git (english): https://gitlab.huma-num.fr/hpecout/R_presentation_EN
-> - Git (Español): https://gitlab.huma-num.fr/hpecout/R_presentation_SP
+> - Git (français): https://github.com/HuguesPecout/R_presentation_FR
+> - Git (english): https://github.com/HuguesPecout/R_presentation_EN
+> - Git (Español): https://github.com/HuguesPecout/R_presentation_SP
 
 </ul>
 
@@ -806,7 +806,7 @@ ggsave(p, filename = "figure/graph.png", bg = "transparent", dpi = 300)
 <p class="smallpcenter">De nombreuses ressources documentaires référencées sur...</p>
 
 
-<img src="figure/Rzine.png" width="240"/><br><p class="moyp"><a href="http://rzine.fr" target="_blank">rzine.fr</a></p>
+<img src="figure/Rzine.png" width="240"/><br><p class="moyp"><a href="https://rzine.fr" target="_blank">rzine.fr</a></p>
 
 
 
@@ -850,7 +850,7 @@ ggsave(p, filename = "figure/graph.png", bg = "transparent", dpi = 300)
 
 <br>
 
-Partie 2 : [Introduction au langage et à  l'IDE Rstudio](https://hpecout.gitpages.huma-num.fr/Intro_R_Rstudio_FR/){target="_blank"}
+Partie 2 : [Introduction au langage et à  l'IDE Rstudio](https://huguespecout.github.io/R_presentation_FR/)
 <div class="litito">
 >- Une super calculatrice
 >- R et objets
@@ -862,4 +862,4 @@ Partie 2 : [Introduction au langage et à  l'IDE Rstudio](https://hpecout.gitpag
 
 <br>
 
-<p class="smallpcenter">[Voir le diaporama](https://hpecout.gitpages.huma-num.fr/Intro_R_Rstudio_FR/){target="_blank"}</p>
+<p class="smallpcenter">[Voir le diaporama](https://huguespecout.github.io/R_presentation_FR/)</p>
