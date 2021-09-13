@@ -1,4 +1,15 @@
 # Analyse de données avec R
 
-- [Voir le diaporama (Partie 1)](https://huguespecout.github.io/R_presentation_FR/)
-- [Voir le diaporama (Partie 2)](https://huguespecout.github.io/Intro_R_Rstudio_FR/)
+## Contextualisation et présentation de R et Rstudio
+
+-> [Voir le diaporama](https://huguespecout.github.io/R_presentation_FR/)
+
+Autres versions :
+
+- [Version anglaise](https://huguespecout.github.io/R_presentation_EN/#/), translated by Violaine Jurie       
+- [Version espagnole](https://huguespecout.github.io/R_presentation_SP/#/), Traducido por Francois Rebaudo
+
+
+Ces diapositives peuvent être utilisées pour introduire la présentation suivante :
+
+- [Introduction à R](https://huguespecout.github.io/Intro_R_Rstudio_FR/)
