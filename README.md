@@ -12,4 +12,4 @@ Autres versions :
 
 Ces diapositives peuvent être utilisées pour introduire la présentation suivante :
 
-- [Introduction à R](https://huguespecout.github.io/Intro_R_Rstudio_FR/)
+- [Introduction à R (Base du langage, packages, Rstudio et documentation)](https://huguespecout.github.io/Intro_R_Rstudio_FR/)
