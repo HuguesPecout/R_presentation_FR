@@ -481,7 +481,8 @@ scale_x_date( date_minor_breaks = "1 month", date_labels = "%Y", breaks = as.Dat
                                                                                      '2018-01-01', 
                                                                                      '2019-01-01', 
                                                                                      '2020-01-01', 
-                                                                                     '2021-01-01'))) + 
+                                                                                     '2021-01-01',
+                                                                                     '2022-01-01'))) + 
 annotate(geom = "text", x = as.Date('2018-08-23'), y = 15000, label = paste0( max(test2$cum), ' packages \n (', format(Sys.time(), '%d %b %Y'), ")"), color ="#ff5151", size = 5.5) + 
 geom_point(aes(x = max(date), y = max(cum)), color = "#ff5151", size = 3) + 
 theme(axis.text = element_text(size = 12, colour ="grey90"), 
